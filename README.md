@@ -20,8 +20,14 @@ main.py :
  line 54 = CMD_TIMEOUT ❌
 ```
 
+## ⚠️ point :
+```text
+Create a separate bot for each target.
+Reason: Lack of session management.
+```
 
-  ## You must execute the file on the victim's system using some method.
+
+  ## You must execute the file on the victim's system using some method.⤵️
   
   ### 📩 Installation steps : 
 - 1️⃣ Installing the repository :
@@ -36,9 +42,27 @@ cd Reverse-CLoUDv2
 ```bash
 👉 📃 Needs editing 👈
 ```
-- 4️⃣ install requirements :
+- 4️⃣ installing requirements  (only on your system) :
 ```bash
-pip install requests mss sounddevice numpy opencv-python Pillow pyinstaller
+pip install requests 
+```
+```bash
+pip install mss 
+```
+```bash
+pip install sounddevice 
+```
+```bash
+pip install numpy 
+```
+```bash
+pip install opencv-python 
+```
+```bash
+pip install Pillow
+```
+```bash
+pip install pyinstaller
 ```
 - 5️⃣ Build :
 ### 1- Simple :
