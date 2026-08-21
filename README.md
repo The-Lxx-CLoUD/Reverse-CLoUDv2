@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <i>it's a Reverse Shell Connected telegram bot </i>
+  <i>it's a Reverse Shell Connected telegram bot (beta) </i>
 </p>
