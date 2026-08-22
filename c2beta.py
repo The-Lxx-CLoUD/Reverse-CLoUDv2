@@ -50,7 +50,7 @@ except:
 
 # ====== CONFIG ======
 BOT_TOKEN = "abcdefg1234"      # bot token 
-ADMIN_CHAT_ID = 1234567  # admin chat id ### single == ( "123456" ❌ ) -- ( 123456 ✅ )###
+ADMIN_CHAT_ID = 1234567        # admin chat id ### single == ( "123456" ❌ ) -- ( 123456 ✅ )###
 CMD_TIMEOUT = 50
 SESSION_NAME = sys.argv[1] if len(sys.argv) > 1 else (platform.node() or "default")
 COORD_FILE = os.path.join(tempfile.gettempdir(), f"agent_sessions_{BOT_TOKEN[-8:]}.json")
