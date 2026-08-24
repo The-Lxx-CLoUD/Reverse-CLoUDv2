@@ -745,6 +745,8 @@ def execute_local(cmd_text):
     elif low == "sg1":
         send_msg_markdown(
             "📚 **Multi-Session Commands**\n"
+
+            "You can submit PowerShell commands here.\n"
             
             "**Capture:**\n"
             "`screenshot` — Taking a screenshot 📸\n"
