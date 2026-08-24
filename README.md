@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <i>it's a Reverse Shell Connected telegram bot. ⚠️👉 (It is a test and demonstration version) </i>
+  <i>it's a Reverse Shell Connected telegram bot 👉 (It is a test and demonstration version) </i>
 </p>
 <p align="center">
   <img src="file's/1.png" width="1080">
