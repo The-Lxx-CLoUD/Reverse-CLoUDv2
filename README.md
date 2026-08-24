@@ -99,6 +99,10 @@ pwd → Current path
 System:
 persist | exit
 
+PowerShell Commands:
+pwd -- ls -- cd C:/
+ipconfig -- start C:/ali.exe and more...
+
 dev : @lxxcloud
 ```
 
